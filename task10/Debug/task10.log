@@ -1,0 +1,9 @@
+﻿  EulerCycle.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(10): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(56): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task10\task10\eulercycle.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+  task10.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task10\Debug\task10.exe
+  task10.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task10\Debug\task10.pdb (Partial PDB)
